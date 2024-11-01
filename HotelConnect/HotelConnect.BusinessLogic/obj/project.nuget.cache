@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpheLo9d8Pk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fodor\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\fodor\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\fodor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\fodor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
