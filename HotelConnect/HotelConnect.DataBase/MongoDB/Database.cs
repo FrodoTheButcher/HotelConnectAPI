@@ -11,7 +11,8 @@ namespace HotelConnect.DataBase.MongoDB
 {
   public class Database : IDatabase
   {
-    private readonly IMongoDatabase db;
+    public  IMongoDatabase db;
+    private  MongoClient mongoClient;
     public IMongoCollection<TItem> GetCollection<TItem>(string name)
     {
       return this.db.GetCollection<TItem>(name);

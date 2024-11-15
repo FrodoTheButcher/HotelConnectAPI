@@ -227,11 +227,28 @@
       "HotelConnect.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MongoDB.Bson": "3.0.0"
+        },
         "compile": {
           "bin/placeholder/HotelConnect.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/HotelConnect.Domain.dll": {}
+        }
+      },
+      "HotelConnect.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HotelConnect.DataAbstraction": "1.0.0",
+          "HotelConnect.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HotelConnect.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelConnect.Repositories.dll": {}
         }
       }
     }
@@ -625,12 +642,18 @@
       "type": "project",
       "path": "../HotelConnect.Domain/HotelConnect.Domain.csproj",
       "msbuildProject": "../HotelConnect.Domain/HotelConnect.Domain.csproj"
+    },
+    "HotelConnect.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../HotelConnect.Repositories/HotelConnect.Repositories.csproj",
+      "msbuildProject": "../HotelConnect.Repositories/HotelConnect.Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "HotelConnect.DataAbstraction >= 1.0.0",
       "HotelConnect.Domain >= 1.0.0",
+      "HotelConnect.Repositories >= 1.0.0",
       "MongoDB.Driver >= 3.0.0"
     ]
   },
@@ -641,11 +664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.DataBase\\HotelConnect.DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\HotelConnect.DataBase.csproj",
       "projectName": "HotelConnect.DataBase",
-      "projectPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.DataBase\\HotelConnect.DataBase.csproj",
+      "projectPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\HotelConnect.DataBase.csproj",
       "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.DataBase\\obj\\",
+      "outputPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -667,11 +690,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj": {
-              "projectPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj"
+            "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj": {
+              "projectPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj"
             },
-            "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {
-              "projectPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj"
+            "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {
+              "projectPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj"
+            },
+            "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\HotelConnect.Repositories.csproj": {
+              "projectPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\HotelConnect.Repositories.csproj"
             }
           }
         }
@@ -715,5 +741,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://proget.cbwg.local/nuget/DevServices/v3/index.json."
+    }
+  ]
 }

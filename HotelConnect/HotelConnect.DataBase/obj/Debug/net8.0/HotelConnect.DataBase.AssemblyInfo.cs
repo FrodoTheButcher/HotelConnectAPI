@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelConnect.DataBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708cc24a9b505091d468fc36086d4963104bc4ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelConnect.DataBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelConnect.DataBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

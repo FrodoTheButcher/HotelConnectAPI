@@ -1,7 +1,13 @@
-﻿namespace HotelConnect.Domain
+﻿using MongoDB.Bson;
+
+namespace HotelConnect.Domain
 {
-  public class Room
+  public class Room : Entity
   {
+    public Room()
+      :base()
+    {
+    }
     public string Id { get; set; }
 
     public int NumerOfBeds { get; set; }

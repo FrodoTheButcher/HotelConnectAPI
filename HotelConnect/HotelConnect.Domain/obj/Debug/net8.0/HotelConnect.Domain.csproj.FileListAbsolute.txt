@@ -9,3 +9,16 @@ C:\Users\fodor\source\repos\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\Ho
 C:\Users\fodor\source\repos\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\refint\HotelConnect.Domain.dll
 C:\Users\fodor\source\repos\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.pdb
 C:\Users\fodor\source\repos\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\ref\HotelConnect.Domain.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\bin\Debug\net8.0\HotelConnect.Domain.deps.json
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\bin\Debug\net8.0\HotelConnect.Domain.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\bin\Debug\net8.0\HotelConnect.Domain.pdb
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.csproj.AssemblyReference.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.AssemblyInfoInputs.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.AssemblyInfo.cs
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.sourcelink.json
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\refint\HotelConnect.Domain.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\HotelConnect.Domain.pdb
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.Domain\obj\Debug\net8.0\ref\HotelConnect.Domain.dll

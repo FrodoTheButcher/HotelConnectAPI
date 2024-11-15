@@ -1,4 +1,5 @@
 ﻿using HotelConnect.DataAbstraction;
+using HotelConnect.DataAbstraction.MongoDB;
 using HotelConnect.Domain;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,13 @@ namespace HotelConnect.Repositories.RoomRepositories
 {
   public class RoomRepositories : IRoomRepositorie
   {
+    private readonly IDatabase _database;
+
+    public RoomRepositories(IDatabase database)
+    {
+      _database = database;
+    }
+
     public Task<bool> DeleteAsync(Room entity, CancellationToken cancellationToken)
     {
       throw new NotImplementedException();

@@ -1,4 +1,5 @@
-﻿using HotelConnect.Domain;
+﻿using HotelConnect.DataAbstraction;
+using HotelConnect.Domain;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -10,16 +11,21 @@ namespace HotelConnect.BusinessLogic.Users.CreateUser
 {
   public class CreateUserHandler : IRequestHandler<CreateUserRequest, CreateUserResponse>
   {
+    private readonly IUserRepositorie userRepositorie;
+
+    public CreateUserHandler(IUserRepositorie userRepositorie)
+    {
+      this.userRepositorie = userRepositorie;
+    }
     public async Task<CreateUserResponse> Handle(CreateUserRequest request, CancellationToken cancellationToken)
     {
       User user = new User();
-      user.Username = request.Username;
-      user.Age = request.Age;
+
       user.Email = request.Email;
       user.Password = request.Password;
       user.Id = Guid.NewGuid().ToString();
 
-      //adaugam in database
+      await this.userRepositorie.InsertAsync(user, cancellationToken);
 
       return new CreateUserResponse
       {

@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\users\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\users\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\rooms\\createroom\\createroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\rooms\\createroom\\createroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|solutionrelative:hotelconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5A6F09-201C-4622-8B6E-38688DA479CC}|HotelConnect.Repositories\\HotelConnect.Repositories.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.repositories\\roomrepositories\\roomrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5A6F09-201C-4622-8B6E-38688DA479CC}|HotelConnect.Repositories\\HotelConnect.Repositories.csproj|solutionrelative:hotelconnect.repositories\\roomrepositories\\roomrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\irepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\irepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\iroomrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\iroomrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\rooms\\createroom\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\rooms\\createroom\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\rooms\\createroom\\createroomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\rooms\\createroom\\createroomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\rooms\\createroom\\createroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\rooms\\createroom\\createroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|solutionrelative:hotelconnect\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5A6F09-201C-4622-8B6E-38688DA479CC}|HotelConnect.Repositories\\HotelConnect.Repositories.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.repositories\\userrepositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5A6F09-201C-4622-8B6E-38688DA479CC}|HotelConnect.Repositories\\HotelConnect.Repositories.csproj|solutionrelative:hotelconnect.repositories\\userrepositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\users\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\users\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|solutionrelative:hotelconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313C0608-25F0-4B3D-A172-E8DFA7D09364}|HotelConnect.DataBase\\HotelConnect.DataBase.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.database\\mongodb\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313C0608-25F0-4B3D-A172-E8DFA7D09364}|HotelConnect.DataBase\\HotelConnect.DataBase.csproj|solutionrelative:hotelconnect.database\\mongodb\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\users\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\users\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.domain\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|solutionrelative:hotelconnect.domain\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|solutionrelative:hotelconnect.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.domain\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|solutionrelative:hotelconnect.domain\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.domain\\enums\\euserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|solutionrelative:hotelconnect.domain\\enums\\euserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\enums\\euserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\enums\\euserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.domain\\enums\\euserrights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EA925-0151-4803-BA21-4E26505B40A5}|HotelConnect.Domain\\HotelConnect.Domain.csproj|solutionrelative:hotelconnect.domain\\enums\\euserrights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\enums\\euserrights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\enums\\euserrights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\hotelconnect.dataabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\hotelconnect.dataabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313C0608-25F0-4B3D-A172-E8DFA7D09364}|HotelConnect.DataBase\\HotelConnect.DataBase.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313C0608-25F0-4B3D-A172-E8DFA7D09364}|HotelConnect.DataBase\\HotelConnect.DataBase.csproj|solutionrelative:hotelconnect.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.businesslogic\\users\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4CCB12-14B2-4445-B217-DBCB24CA3711}|HotelConnect.BusinessLogic\\HotelConnect.BusinessLogic.csproj|solutionrelative:hotelconnect.businesslogic\\users\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|solutionrelative:hotelconnect\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\mongodb\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\mongodb\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\mongodb\\idatabaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\mongodb\\idatabaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect.dataabstraction\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E8AC-424C-4FFC-A380-66C8F4D94940}|HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj|solutionrelative:hotelconnect.dataabstraction\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|c:\\users\\fodor\\desktop\\hotelconnectapi\\hotelconnect\\hotelconnect\\hotelconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32E9A9EF-3549-4B3D-B3EB-5435A2340C3E}|HotelConnect\\HotelConnect.csproj|solutionrelative:hotelconnect\\hotelconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Program.cs",
+              "RelativeDocumentMoniker": "HotelConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Program.cs",
+              "RelativeToolTip": "HotelConnect\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:18:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\IRepositorie.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\IRepositorie.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\IRepositorie.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\IRepositorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:19:28.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\RoomRepositories\\RoomRepositories.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Repositories\\RoomRepositories\\RoomRepositories.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\RoomRepositories\\RoomRepositories.cs",
+              "RelativeToolTip": "HotelConnect.Repositories\\RoomRepositories\\RoomRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:21:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserHandler.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:15:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserValidator.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:35:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRoomHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomHandler.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomHandler.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:43:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Enums\\EUserRole.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\Enums\\EUserRole.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Enums\\EUserRole.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\Enums\\EUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:26:06.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoomRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\IRoomRepositorie.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\IRoomRepositorie.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\IRoomRepositorie.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\IRoomRepositorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:25:27.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Room.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Domain\\Room.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Room.cs",
+              "RelativeToolTip": "HotelConnect.Domain\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:36:41.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HotelConnect\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HotelConnect\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:48:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRoomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomValidator.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomValidator.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:42:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRoomResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomResponse.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomResponse.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:35:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateRoomRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomRequest.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomRequest.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Rooms\\CreateRoom\\CreateRoomRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:38:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserRequest.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:35:20.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MongoDBConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\MongoDB\\MongoDBConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataBase\\MongoDB\\MongoDBConfiguration.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\MongoDB\\MongoDBConfiguration.cs",
+              "RelativeToolTip": "HotelConnect.DataBase\\MongoDB\\MongoDBConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:08:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelConnect\\appsettings.json",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\appsettings.json",
+              "RelativeToolTip": "HotelConnect\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T09:10:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\UserRepositories\\UserRepositories.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Repositories\\UserRepositories\\UserRepositories.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Repositories\\UserRepositories\\UserRepositories.cs",
+              "RelativeToolTip": "HotelConnect.Repositories\\UserRepositories\\UserRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:22:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Task.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Domain\\Task.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Task.cs",
+              "RelativeToolTip": "HotelConnect.Domain\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:21:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Floor.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Domain\\Floor.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Floor.cs",
+              "RelativeToolTip": "HotelConnect.Domain\\Floor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:37:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EUserRights.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Enums\\EUserRights.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Domain\\Enums\\EUserRights.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Enums\\EUserRights.cs",
+              "RelativeToolTip": "HotelConnect.Domain\\Enums\\EUserRights.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:47:14.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Enums\\EUserRole.cs",
+              "RelativeDocumentMoniker": "HotelConnect.Domain\\Enums\\EUserRole.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\Enums\\EUserRole.cs",
+              "RelativeToolTip": "HotelConnect.Domain\\Enums\\EUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:47:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EUserRights.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Enums\\EUserRights.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\Enums\\EUserRights.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Enums\\EUserRights.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\Enums\\EUserRights.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:44:13.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelConnect.DataAbstraction.csproj",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\HotelConnect.DataAbstraction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T08:45:14.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\Class1.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataBase\\Class1.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataBase\\Class1.cs",
+              "RelativeToolTip": "HotelConnect.DataBase\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:48:00.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserResponse.cs",
+              "RelativeToolTip": "HotelConnect.BusinessLogic\\Users\\CreateUser\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:08:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Class1.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\Class1.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\Class1.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:48:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelConnect\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelConnect\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:50:28.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDatabaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\MongoDB\\IDatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\MongoDB\\IDatabaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\MongoDB\\IDatabaseConfiguration.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\MongoDB\\IDatabaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:52:32.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\MongoDB\\IDatabase.cs",
+              "RelativeDocumentMoniker": "HotelConnect.DataAbstraction\\MongoDB\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.DataAbstraction\\MongoDB\\IDatabase.cs",
+              "RelativeToolTip": "HotelConnect.DataAbstraction\\MongoDB\\IDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:53:43.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HotelConnect.csproj",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\HotelConnect.csproj",
+              "RelativeDocumentMoniker": "HotelConnect\\HotelConnect.csproj",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect\\HotelConnect.csproj",
+              "RelativeToolTip": "HotelConnect\\HotelConnect.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T10:09:02.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

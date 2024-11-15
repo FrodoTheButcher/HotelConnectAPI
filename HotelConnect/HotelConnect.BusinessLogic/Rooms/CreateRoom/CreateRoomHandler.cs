@@ -1,4 +1,5 @@
-﻿using HotelConnect.Domain;
+﻿using HotelConnect.DataAbstraction;
+using HotelConnect.Domain;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -10,16 +11,21 @@ namespace HotelConnect.BusinessLogic.Rooms.CreateRoom
 {
   public class CreateRoomHandler : IRequestHandler<CreateRoomRequest, CreateRoomResponse>
   {
+    private readonly IRoomRepositorie roomRepositorie;
+
+    public CreateRoomHandler(IRoomRepositorie roomRepositorie)
+    {
+      this.roomRepositorie = roomRepositorie;
+    }
     public async Task<CreateRoomResponse> Handle(CreateRoomRequest request, CancellationToken cancellationToken)
     {
       Room room = new Room();
       room.NumerOfBeds = request.NumerOfBeds;
       room.Capacity = request.Capacity;
       room.Price = request.Price;
-      room.RoomStatus = 0; // free
+      room.RoomStatus = 0;
 
-      //insert to database
-
+      await this.roomRepositorie.InsertAsync(room, cancellationToken);
       return new CreateRoomResponse
       {
         Id = "",

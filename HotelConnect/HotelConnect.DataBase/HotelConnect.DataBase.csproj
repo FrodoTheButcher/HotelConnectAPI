@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HotelConnect.DataAbstraction\HotelConnect.DataAbstraction.csproj" />
     <ProjectReference Include="..\HotelConnect.Domain\HotelConnect.Domain.csproj" />
+    <ProjectReference Include="..\HotelConnect.Repositories\HotelConnect.Repositories.csproj" />
   </ItemGroup>
 
 </Project>

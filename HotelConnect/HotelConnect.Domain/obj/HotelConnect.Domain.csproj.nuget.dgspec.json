@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {}
+    "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {
+    "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj",
         "projectName": "HotelConnect.Domain",
-        "projectPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj",
+        "projectPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\HotelConnect.Domain.csproj",
         "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fodor\\source\\repos\\HotelConnect\\HotelConnect.Domain\\obj\\",
+        "outputPath": "C:\\Users\\fodor\\Desktop\\HotelConnectAPI\\HotelConnect\\HotelConnect.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

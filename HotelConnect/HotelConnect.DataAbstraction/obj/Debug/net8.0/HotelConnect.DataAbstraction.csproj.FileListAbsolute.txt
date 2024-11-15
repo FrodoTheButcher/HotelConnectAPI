@@ -1,0 +1,16 @@
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.csproj.AssemblyReference.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.AssemblyInfoInputs.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.AssemblyInfo.cs
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.sourcelink.json
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\bin\Debug\net8.0\HotelConnect.DataAbstraction.deps.json
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\bin\Debug\net8.0\HotelConnect.DataAbstraction.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\bin\Debug\net8.0\HotelConnect.DataAbstraction.pdb
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\bin\Debug\net8.0\HotelConnect.Domain.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\bin\Debug\net8.0\HotelConnect.Domain.pdb
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelCon.1F683922.Up2Date
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\refint\HotelConnect.DataAbstraction.dll
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\HotelConnect.DataAbstraction.pdb
+C:\Users\fodor\Desktop\HotelConnectAPI\HotelConnect\HotelConnect.DataAbstraction\obj\Debug\net8.0\ref\HotelConnect.DataAbstraction.dll
