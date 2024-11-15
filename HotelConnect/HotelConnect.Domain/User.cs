@@ -24,6 +24,8 @@ namespace HotelConnect.Domain
 
     public string AzureId { get; set; }
 
+    public List<Task> Tasks { get; set; }
+
   }
 
 }

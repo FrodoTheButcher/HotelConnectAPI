@@ -22,8 +22,8 @@ namespace HotelConnect.Domain
 
   public enum EStatus
   {
-    Open,
     Assigned,
+    InProgress,
     Cancelled,
     Done
   }
